@@ -1,0 +1,14 @@
+Arquivo com infomrações sobre diretórios e subdiretórios
+
+\schema
+Pasta com o esquema físico de banco de dados
+
+\Documentação
+Pasta com os documentos de auxilio para a realização do trabalho. Nela se encontra o pdf com as instruções para realização do trabalho, o arquivo
+com as definições das ferramentas que serão utilizadas.
+
+\Acessa IFSP
+Pasta com os janelas php e html do projeto.
+
+\Acessa IFSP\LerSerial
+Pasta com api java responsável por obter o resultado do código obtido pelo leitor de código 1D e 2 D
